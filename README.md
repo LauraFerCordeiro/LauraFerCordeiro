@@ -1,6 +1,8 @@
 ### Oi pessoinhas! Meu nome é Laura, tudo certo? Sou estudante de programação do IFSP. Bem vindo ao meu perfil! 👀
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurinhaNasa&layout=compact)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Laurinha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
