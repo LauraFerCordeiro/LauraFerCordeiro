@@ -1,6 +1,6 @@
 ### Oi pessoinhas! Meu nome é Laura, tudo certo? Sou estudante de programação do IFSP. Bem vindo ao meu perfil! 👀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurinhaNasa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurinhaNasa&layout=compact&theme=tokyonight)
 
 
 <div style="display: inline_block"><br>
