@@ -1,5 +1,10 @@
-### Oi pessoinhas! Meu nome é Laura, tudo certo? Sou estudante de programação do IFSP 💻
+### Meu nome é Laura, tudo certo? Sou estudante de programação do IFSP 
 ### Bem vindo ao meu perfil! 👀
+
+Sou aluna do 3º ano do curso Técnico em Informática para Internet do IFSP
+
+- 💻 Aprendendo Pentest e Segurança da Informação
+- ❤️ Fã de Java Web
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurinhaNasa&layout=compact&theme=tokyonight)
 
