@@ -1,10 +1,12 @@
-### Meu nome é Laura, tudo certo? Sou estudante de programação do IFSP 
+### Meu nome é Laura, tudo certo? Sou técnica em informática para internet formada pelo IFSP - Campus São Carlos
+### Dev Full Stack 
 ### Bem vindo ao meu perfil! 👀
 
-Sou aluna do 3º ano do curso Técnico em Informática para Internet do IFSP
+Aceito propostas de trabalho (freelance ou fixo), caso tenha interesse me envie um email!
 
-- 💻 Aprendendo Pentest e Segurança da Informação
-- ❤️ Fã de Java Web
+- 📖 Experiência de 3 anos com projetos acadêmicos
+- 💻 Experiência de 6 meses no mercado de trabalho 
+- ❤️ Fã de Java Web e PHP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFerCordeiro&layout=compact&theme=tokyonight)
 
@@ -27,6 +29,7 @@ Sou aluna do 3º ano do curso Técnico em Informática para Internet do IFSP
  
 <div> 
   <a href="https://instagram.com/laura_fenx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:laurafercordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a  
+  <a href = "mailto:laurafercordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+                                                                                                                                                                       
 </div>
 
