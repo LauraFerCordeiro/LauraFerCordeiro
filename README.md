@@ -5,7 +5,7 @@
 Aceito propostas de trabalho (freelance ou fixo), caso tenha interesse me envie um email!
 
 - 📖 Experiência de 3 anos com projetos acadêmicos
-- 💻 Experiência de 6 meses no mercado de trabalho 
+- 💻 Experiência de 7 meses no mercado de trabalho 
 - ❤️ Fã de Java Web e PHP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFerCordeiro&layout=compact&theme=tokyonight)
