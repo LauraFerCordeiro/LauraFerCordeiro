@@ -3,6 +3,7 @@
 ### Bem vindo ao meu perfil! 👀
 
 Aceito propostas de trabalho (freelance ou fixo), caso tenha interesse me envie um email!
+Email: laurafercordeiro@gmail.com
 
 - 🎓 Formada no IFSP Campus São Carlos em Técnico de Informática para Internet
 - 📖 Experiência de 3 anos com projetos acadêmicos
