@@ -1,9 +1,10 @@
-### Meu nome é Laura, tudo certo? Sou técnica em informática para internet formada pelo IFSP - Campus São Carlos
+### Meu nome é Laura, tudo certo?
 ### Dev Full Stack 
 ### Bem vindo ao meu perfil! 👀
 
 Aceito propostas de trabalho (freelance ou fixo), caso tenha interesse me envie um email!
 
+- 🎓 Formada no IFSP Campus São Carlos em Técnico de Informática para Internet
 - 📖 Experiência de 3 anos com projetos acadêmicos
 - 💻 Experiência de 7 meses no mercado de trabalho 
 - ❤️ Fã de Java Web e PHP
@@ -30,6 +31,6 @@ Aceito propostas de trabalho (freelance ou fixo), caso tenha interesse me envie 
 <div> 
   <a href="https://instagram.com/laura_fenx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laurafercordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/laura-cordeiro-9983a8324"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>                                                                                                                                                                    
+  <a href="https://www.linkedin.com/in/laura-cordeiro-9983a8324"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank" height="30"></a>                                                                                                                                                                    
 </div>
 
