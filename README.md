@@ -30,6 +30,6 @@ Aceito propostas de trabalho (freelance ou fixo), caso tenha interesse me envie 
 <div> 
   <a href="https://instagram.com/laura_fenx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laurafercordeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-                                                                                                                                                                       
+  <a href = "https://www.linkedin.com/in/laura-cordeiro-9983a8324"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>                                                                                                                                                                    
 </div>
 
