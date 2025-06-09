@@ -1,5 +1,6 @@
 ### Meu nome é Laura, tudo certo?
 <i> Sou Dev Full Stack </i> 
+<i> Atualmente bolsista técnica no IFSC - USP na parte de programação e eletrônica </i>
 ### Bem vindo ao meu perfil! 👀
 
 <hr></hr>
@@ -8,8 +9,8 @@
 #### Email: laurafercordeiro@gmail.com
 
 - 🎓 Formada no IFSP Campus São Carlos em Técnico de Informática para Internet
-- 📖 Experiência de 3 anos com projetos acadêmicos
-- 💻 Experiência de 7 meses no mercado de trabalho 
+- 📖 Experiência de +3 anos com projetos acadêmicos
+- 💻 Experiência de +8 meses no mercado de trabalho 
 - ❤️ Fã de Java Web e PHP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraFerCordeiro&layout=compact&theme=tokyonight)
